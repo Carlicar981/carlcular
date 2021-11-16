@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">carlcular</string>
+    <string name="valor1">Primer valor:</string>
+    <string name="valor2">Segundo valor:</string>
+    <string name="sumar">SUMAR</string>
+    <string name="restar">RESTAR</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="resultado">Resultado: </string>
+</resources>
